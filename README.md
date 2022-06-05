@@ -1,4 +1,4 @@
-![nasa](/nasa.png)
+![nasa](/Resources/nasa.png)
 
 # UFO Sightings
 
