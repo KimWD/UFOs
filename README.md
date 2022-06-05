@@ -1,5 +1,5 @@
 
-![nasa](Resources/nasa.png)
+![Nasa](Resources/Nasa.png)
 
 # UFO Sightings
 
@@ -9,5 +9,4 @@ Using Javascript to build a website,in order to provide a more in-depth analysis
 
 # Results
 
-![nasa](Resources/nasa.png)
-
+Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
