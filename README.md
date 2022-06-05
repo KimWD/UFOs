@@ -9,4 +9,14 @@ Using Javascript to build a website,in order to provide a more in-depth analysis
 
 # Results
 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+1. Upon arriving at the UFOs site, you will see 'Filter Search' on the left hand side, with 5 search critera.  Date, city, state, country and shape. See the below picture.
+
+![ufo_site](Resources/ufo_site.png)
+
+2.  You may complete a search by entering the requested information in 1 or all 5 of the search criteria and pressing enter. Simple!
+
+# Summary
+
+The ease of use for the website is fairly simple, however, the biggest drawback is that the information returned is limited to the current data we have in out Javascript.   
+
+
